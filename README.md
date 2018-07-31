@@ -1,7 +1,7 @@
 # Litesy
 Light and easy GObject development framework
 
-Sometime, when we wanna create an app with a programming language, we’ll faced to compilation (except for script languages) and distributing steps, this will take more efforts, especially when we wanna distribute to other OS or distros.
+Sometime, when we wanna create an app with a programming language, we’ll faced to compilation (except for script languages) and distributing steps, we wanna make this much easier to fostering our development, especially when we wanna distribute to other OS or distros.
 Therefore, we need a development framework that make cross compiling and distribution are easy. :-)
 
 Features:
