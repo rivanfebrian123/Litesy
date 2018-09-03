@@ -6,7 +6,7 @@ Therefore, we need a development framework that make cross compiling and distrib
 
 Features:
 
-![Main SDK window](https://github.com/rivanfebrian123/Litesy/raw/master/Screenshot%20from%202018-08-28%2014-46-37.png)
+![Main SDK window](https://github.com/rivanfebrian123/Litesy/raw/master/Screenshot%20from%202018-09-03%2011-18-14.png)
 
 ![Test an app, or publish it to some software center or software repositories](https://github.com/rivanfebrian123/Litesy/raw/master/Screenshot%20from%202018-08-28%2014-47-19.png)
 
