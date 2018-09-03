@@ -8,7 +8,7 @@ Features:
 
 ![Main SDK window](https://github.com/rivanfebrian123/Litesy/raw/master/Screenshot%20from%202018-09-03%2011-18-14.png)
 
-![Test an app, or publish it to some software center or software repositories](https://github.com/rivanfebrian123/Litesy/raw/master/Screenshot%20from%202018-08-28%2014-47-19.png)
+![Test an app, or publish it to some software center or software repositories](https://github.com/rivanfebrian123/Litesy/raw/master/Screenshot%20from%202018-09-03%2011-32-27.png)
 
 * Just as its name, it’s lightweight and easy.
 * Cross platform, exactly.
